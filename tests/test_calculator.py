@@ -1,7 +1,7 @@
 from calculator import add, div, mul, sub
 
 def test_add():
-    assert add(2, 3) == 9
+    assert add(2, 3) == 5
 
 def test_sub():
     assert sub(2, 3) == -1
