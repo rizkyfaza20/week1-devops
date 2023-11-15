@@ -1,4 +1,4 @@
-name: test
+name: Build python apps and tests export
 
 on:
   push:
